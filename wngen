@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+play -n synth 60:00 whitenoise vol 0.5
