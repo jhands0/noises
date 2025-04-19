@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+play --no-show-progress -n synth 60:00 pinknoise vol 0.5
